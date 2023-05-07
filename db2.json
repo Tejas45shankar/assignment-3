@@ -1,0 +1,24 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "name": "Introduction to JavaScript",
+        "description": "Learn the basics of JavaScript programming language.",
+        "price": 49.99
+      },
+      {
+        "id": 2,
+        "name": "Advanced React",
+        "description": "Take your React skills to the next level.",
+        "price": 99.99
+      },
+      {
+        "id": 3,
+        "name": "Node.js for Beginners",
+        "description": "Learn how to build server-side applications with Node.js.",
+        "price": 79.99
+      }
+    ],
+    "enquiries": []
+  }
+  
